@@ -1,0 +1,21 @@
+body{
+    display: block;
+    text-align: center;
+}
+
+input{
+    width: 80%;
+    height: 60px;
+    border: 2px rgb(209, 156, 56) solid;
+    font-size: 50px;
+}
+ul{
+    width: 50%;
+    color: rgb(107, 81, 42);
+}
+li{
+    margin: auto;
+    font-size: 60px;
+    width: 70%;
+    border: 2px black solid;
+}
